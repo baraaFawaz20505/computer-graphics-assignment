@@ -1,4 +1,0 @@
-C:/Users/lenovo/Downloads/Telegram Desktop/L2p/build/CMakeFiles/OpenGL.SharedModule.dir
-C:/Users/lenovo/Downloads/Telegram Desktop/L2p/build/CMakeFiles/GLProject.dir
-C:/Users/lenovo/Downloads/Telegram Desktop/L2p/build/CMakeFiles/edit_cache.dir
-C:/Users/lenovo/Downloads/Telegram Desktop/L2p/build/CMakeFiles/rebuild_cache.dir
